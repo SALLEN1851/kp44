@@ -32,12 +32,7 @@ window.contentDeta = [
 		'mouseTitle' : 'BRANDING',
 		'linkAdd' : 'branding.html'
 	},
-	{
-		'row01' : 'ILLUSTRATION',
-		'jobtype' : 'Merchandise ・ Illustration',
-		'mouseTitle' : 'ILLUSTRATION',
-		'linkAdd' : 'illustration.html'
-	}
+
 ];
 
 
