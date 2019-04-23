@@ -7,10 +7,10 @@ window.contentDeta = [
 		'linkAdd' : 'coverart.html'
 	},
 	{
-		'row01' : 'VISUAL',
-		'row02' : 'CONSULTING',
-		'jobtype' : 'Shooting ・ Design ・ Prints ・ Movie',
-		'mouseTitle' : 'VISUAL CONSULTING',
+		'row01' : 'UX',
+		'row02' : 'DESIGN',
+		'jobtype' : 'UX・EMPATHY MAPS ・USER FLOW ',
+		'mouseTitle' : 'UX DESIGN',
 		'linkAdd' : 'visualconsulting.html'
 	},
 	{
@@ -21,9 +21,9 @@ window.contentDeta = [
 		'linkAdd' : 'websitedesign.html'
 	},
 	{
-		'row01' : 'GRAPHIC',
-		'jobtype' : 'Art Direction ・ Print ・ Design',
-		'mouseTitle' : 'GRAPHIC',
+		'row01' : 'PLUGINS',
+		'jobtype' : 'Custom Code ・ Design',
+		'mouseTitle' : 'plugins',
 		'linkAdd' : 'graphic.html'
 	},
 	{
